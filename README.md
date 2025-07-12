@@ -1,5 +1,5 @@
 # Sales-Report-Dashboard
-# 📊 Power BI Sales Dashboard – Q1 2019
+# 📊 Power BI Sales Dashboard 
 
 This is an interactive Sales Dashboard built using Power BI to analyze sales data from Q1 2019. The project focuses on extracting business insights through data visualization, modeling, and transformation.
 

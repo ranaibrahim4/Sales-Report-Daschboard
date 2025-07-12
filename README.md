@@ -1,4 +1,4 @@
-# Sales-Report-Daschboard
+# Sales-Report-Dashboard
 # 📊 Power BI Sales Dashboard – Q1 2019
 
 This is an interactive Sales Dashboard built using Power BI to analyze sales data from Q1 2019. The project focuses on extracting business insights through data visualization, modeling, and transformation.
@@ -22,12 +22,14 @@ This is an interactive Sales Dashboard built using Power BI to analyze sales dat
 - 👥 **How do male vs female customers behave?**
 - 📆 **Which month had the highest income?**
 - 📦 **What are the quantities sold by each product line?**
-- - Dashboard Interaction <a href="https://github.com/ranaibrahim4/Sales-Report-Daschboard/blob/main/Sales%20Report%202019.png">Dashboard</a>
+-  Dashboard Interaction <a href="https://github.com/ranaibrahim4/Sales-Report-Daschboard/blob/main/Sales%20Report%202019.png">Dashboard</a>
 
 ---
 
 ## 🖼️ Dataset used
 - <a href="https://github.com/ranaibrahim4/Sales-Report-Daschboard/blob/main/supermarket_sales%20-%20Sheet1.csv">Dataset</a>
+## Dashboard
+<img width="1254" height="703" alt="Sales Report 2019" src="https://github.com/user-attachments/assets/de1edd0f-42bc-4fd8-a1f1-a0ee4ce69af3" />
 
 > The dashboard helps decision-makers quickly identify trends and performance across various dimensions such as gender, product line, city, and time.
 ---

@@ -22,12 +22,12 @@ This is an interactive Sales Dashboard built using Power BI to analyze sales dat
 - 👥 **How do male vs female customers behave?**
 - 📆 **Which month had the highest income?**
 - 📦 **What are the quantities sold by each product line?**
+- - Dashboard Interaction <a href="https://github.com/ranaibrahim4/Sales-Report-Daschboard/blob/main/Sales%20Report%202019.png">Dashboard</a>
 
 ---
 
 ## 🖼️ Dataset used
 - <a href="https://github.com/ranaibrahim4/Sales-Report-Daschboard/blob/main/supermarket_sales%20-%20Sheet1.csv">Dataset</a>
-- Dashboard Interaction <a href="https://github.com/ranaibrahim4/Sales-Report-Daschboard/blob/main/Sales%20Report%202019.png">Dashboard</a>
 
 > The dashboard helps decision-makers quickly identify trends and performance across various dimensions such as gender, product line, city, and time.
 ---
